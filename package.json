@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get2arun/app.git"
+  },
+  "keywords": [
+    "app",
+    "sample"
+  ],
+  "author": "Arun Prasath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/get2arun/app/issues"
+  },
+  "homepage": "https://github.com/get2arun/app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
